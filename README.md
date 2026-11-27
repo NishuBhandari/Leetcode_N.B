@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NishuBhandari/Leetcode_N.B/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/NishuBhandari/Leetcode_N.B/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
